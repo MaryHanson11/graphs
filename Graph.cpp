@@ -52,7 +52,6 @@ class Graph {
             }
         }
 
-
         vector<vector<int>> connectedComponents() {
             // for undirected specifically thoooooo
 
@@ -76,13 +75,5 @@ class Graph {
 
             return components;
         }
-
-
-
-
-        
-
-
-
 
 };
